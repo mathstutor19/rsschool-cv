@@ -71,3 +71,21 @@ li {
   color: #076678;
   padding-bottom: 100px;
 }
+/* Code style start  */
+.code {
+  overflow: hidden;
+}
+.code__pre {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+}
+/* projects style start  */
+.project__img {
+  width: 30%;
+  height: 200px;
+  transition: all 0.3s ease-in-out;
+}
+.project__img:hover {
+  transform: scale(1.1);
+}
