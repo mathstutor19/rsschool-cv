@@ -10,4 +10,18 @@
 
 ## Summary
 
-I have great mental agility, so I can easily learn anything that I want. I love clean and orderly code. I am interested in learning new software engineering and computer science. Besides, I work as a math and physic tutor. I worked in algorithm and data structures.
+Fullstack JavaScript Developer with 1+ year of experience building responsive and scalable web applications
+using React, Node.js, and Express.js. Proficient in HTML, CSS, JavaScript, and modern frameworks such as
+Redux and React Router. Experienced in developing RESTful APIs, integrating MongoDB databases, and writing
+unit tests using Jest
+
+## Skills
+
+- HTML
+- CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
+- JavaScript (Fundamentals,Functional Programming, Asynchronous JavaScript, ES6+,DOM),JSON.
+- React JS, Redux (beginnner level knowledge).
+- Version control: Git (remote service GitHub).
+- Figma(for web development)
+- Editors: Sublime, VSCode.
+- Nodejs, MongooDB, Mongooose.
