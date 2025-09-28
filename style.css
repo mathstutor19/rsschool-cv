@@ -13,8 +13,9 @@ body {
   font-style: normal;
 }
 .container {
-  width: 80%;
-  margin: 0 auto;
+  width: 1140px;
+  padding: 0px 20px;
+  margin: 0px auto;
 }
 a {
   text-decoration: none;
@@ -56,20 +57,29 @@ li {
 .nav__link {
   color: black;
 }
+
+.header__content {
+  display: flex;
+
+  gap: 30px;
+  padding: 100px 0px;
+}
+.header__image {
+  width: 180px;
+  height: 240px;
+}
 .header__title {
   text-transform: capitalize;
   text-align: center;
-  margin-top: 80px;
   font-weight: 700;
-  font-size: 96px;
+  font-size: 50px;
   line-height: 127px;
 }
 .header__text {
   font-weight: 400;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 63px;
   color: #076678;
-  padding-bottom: 100px;
 }
 /* Code style start  */
 .code {
