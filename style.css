@@ -71,3 +71,12 @@ li {
   color: #076678;
   padding-bottom: 100px;
 }
+/* Code style start  */
+.code {
+  overflow: hidden;
+}
+.code__pre {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+}
