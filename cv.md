@@ -49,3 +49,12 @@ console.log(string_check("thon"));
   - 2014 - 2018 Bachelor degree Faculty of Mathematics and Information.
 - **NAMANGAN STATE LYCEUM**
   - 2010-2014 Faculty of Mathematics and Physics.
+
+## Experience
+
+- **Turon Internation University**
+  - 2025–now IT teacher.
+- **Mega Matematical Center**
+  - 2020–2025 Maths teacher.
+- **Science teaching center**
+  - 2018–2020 Maths teacher.
