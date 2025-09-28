@@ -58,3 +58,9 @@ console.log(string_check("thon"));
   - 2020–2025 Maths teacher.
 - **Science teaching center**
   - 2018–2020 Maths teacher.
+
+## Languages
+
+- Uzbek native
+- English B2
+- Russian B1
