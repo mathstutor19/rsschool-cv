@@ -40,3 +40,12 @@ function string_check(str1) {
 console.log(string_check("Python"));
 console.log(string_check("thon"));
 ```
+
+## Education
+
+- **NAMANGAN STATE UNIVERSITY**
+  - 2023 - 2025 Master degree Faculty of Mathematics and Information.
+- **NAMANGAN STATE UNIVERSITY**
+  - 2014 - 2018 Bachelor degree Faculty of Mathematics and Information.
+- **NAMANGAN STATE LYCEUM**
+  - 2010-2014 Faculty of Mathematics and Physics.
